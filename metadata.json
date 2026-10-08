@@ -1,0 +1,6 @@
+{
+  "name": "Innovation Partner — Metropolia",
+  "description": "Systematic university innovation development platform with stakeholder mapping, causal feedback loops, leverage points, and AHP decision analysis (featuring CleanBot Metropolia demo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
